@@ -11,6 +11,10 @@ fun main() {
     val e: ULong = 30000U
     val float: Double = 3.1415926535
     val double: Float = 1.946293F
+    val q: Double = 72e6
+    val f: Boolean = true
+    val g: Boolean = false
+    val m: Char = 'M'
     // я больше не буду их расписывать, они все обозначены
 
     println("Любимое число мелстроя это $melstroy") // вывод этой переменной вместе с текстом
@@ -28,4 +32,6 @@ fun main() {
     println(e)
     println(float)
     println(double)
+    println(q)
+    println(m)
 }
