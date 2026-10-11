@@ -7,13 +7,6 @@
 kotlinc YourApp.kt
 kotlin YourApp
 ```
-## обновить репозиторий
-чтоб обновить репо тебе надо:
-```bash
-git add .
-git commit -m "update"
-git push
-```
 ## прогресс в котлине
 сейчас я закончил изучение:
 ### Глава 1. Введение в язык Kotlin
