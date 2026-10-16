@@ -1,6 +1,11 @@
 fun main() {
-    var z = 1.0
-    var x = 6.0
-    var c = z % x
-    print(c)
+    print("Введи любое число: ")
+    var a = readln().toInt()
+    var b = if (a == 1488) {
+        println("Гитлер путин сво zov zov")
+    } else if (a < 67) {
+        println("лох ебанный")
+    } else if (a > 67) {
+        println("Порно сво")
+    }
 }
