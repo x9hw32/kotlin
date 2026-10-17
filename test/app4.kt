@@ -7,5 +7,7 @@ fun main() {
         println("лох ебанный")
     } else if (a > 67) {
         println("Порно сво")
+    } else {
+        println("Ты долбаеб")
     }
 }
