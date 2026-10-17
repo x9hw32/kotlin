@@ -5,7 +5,7 @@
 выполнять код так:
 ```bash
 kotlinc YourApp.kt
-kotlin YourApp
+kotlin YourAppKt
 ```
 ## прогресс в котлине
 сейчас я закончил изучение:
