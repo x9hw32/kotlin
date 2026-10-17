@@ -11,7 +11,7 @@ fun main() {
     val e: ULong = 30000U
     val float: Double = 3.1415926535
     val double: Float = 1.946293F
-    val q: Double = 72e6
+    val q: Double = 72
     val f: Boolean = true
     val g: Boolean = false
     val m: Char = 'M'
